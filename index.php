@@ -18,6 +18,12 @@
         <li><a href="8-method-match.php">Method Match</a></li>
         <li><a href="9-method-string.php">Method String</a></li>
         <li><a href="10-array-php.php">Array PHP</a></li>
+        <li><a href="11-metode-array.php">Metode Array</a></li>
+        <li><a href="12-asosiative-array.php">Asosiative Array</a></li>
+        <li><a href="13-metode-asosiative-array.php">Metode Asosiative Array</a></li>
+        <li><a href="14-multi-dimensi-array.php">Multi Dimensi Array</a></li>
+        <li><a href="15-for-loop.php">For Loop</a></li>
+        <li><a href="16-looping-array.php">Looping array</a></li>
     </ol>
 </body>
 </html>
